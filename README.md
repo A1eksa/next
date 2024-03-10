@@ -1,2 +1,2 @@
 # next
-Next learn
+Next learnings 
